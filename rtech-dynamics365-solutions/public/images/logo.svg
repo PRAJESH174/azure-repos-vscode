@@ -1,0 +1,17 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="95" fill="#2563eb" stroke="#1e40af" stroke-width="2"/>
+  
+  <!-- Letter R -->
+  <path d="M 50 60 L 50 140 M 50 60 L 75 60 Q 90 60 90 75 Q 90 85 80 90 L 90 140 M 50 90 L 75 90" 
+        stroke="white" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  
+  <!-- Letter T -->
+  <path d="M 100 60 L 130 60 M 115 60 L 115 140" 
+        stroke="white" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  
+  <!-- D365 Badge -->
+  <rect x="60" y="150" width="80" height="25" rx="12" fill="#1e40af"/>
+  <text x="100" y="167" font-family="Arial, sans-serif" font-size="14" font-weight="bold" 
+        fill="white" text-anchor="middle">D365</text>
+</svg>
